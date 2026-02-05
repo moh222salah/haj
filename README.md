@@ -7,7 +7,7 @@
 
 منصة متقدمة لتحليل بيانات الحجاج والمعتمرين في السوق السعودي، مع التركيز على الخصوصية والأداء العالي.
 
-An advanced analytics platform for Hajj and Umrah pilgrim data in the Saudi market, focusing on privacy and high performance.
+An analytics platform for Hajj and Umrah pilgrim data in the Saudi market, focusing on privacy and high performance.
 
 ## 🎯 المميزات الرئيسية | Key Features
 
